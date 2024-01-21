@@ -1,6 +1,7 @@
 Resources
 Read or watch:<br>
 
+"did it separate"
 - cmd module<br>
 - cmd module in depth<br>
 - packages concept page<br>
